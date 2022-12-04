@@ -14,7 +14,7 @@
 
 - 📫 My E-mail **touti_ayoub@outlook.com**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me: </h3>
 <p align="center">
 <a href="https://linkedin.com/in/toutiayoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toutiayoub" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14592763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14592763" height="30" width="40" /></a>
