@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
     <h1 align="center">Hi 👋, I'm Ayoub Touti</h1>
-<h3 align="center">Computer Science student specialist in Big Data and Data Analytics</h3>
+<h3 align="center">Computer Science student and software engineer</h3>
 
 <p align="center">
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Image" width="600" height="400" />
