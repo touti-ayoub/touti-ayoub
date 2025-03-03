@@ -19,14 +19,3 @@
 </p>
 </body>
 </html>
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<body>
-<h1 align="center">✍️Random Dev Quote:</h1>
-</body>
-</html>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
